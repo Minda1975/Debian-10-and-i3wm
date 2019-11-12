@@ -1,0 +1,5 @@
+URxvt.font:xft:monospace:size=11
+
+XTerm*faceName:  monospace
+XTerm*faceSize: 11
+

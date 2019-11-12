@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# Load resources
+xrdb -merge .Xresources
+
+
+exec i3
